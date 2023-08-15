@@ -1,6 +1,6 @@
 ## Hi eu sou o Gabriel Ortiz 👋
 
-![GabrielOrtiz72 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielOrtiz72&show_icons=true&theme=dark)
+![GabrielOrtiz72 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielOrtiz72&show_icons=true&theme=merko)
 
 ### Email de contato
 <div style = "display: inline_block"><br>
