@@ -3,7 +3,7 @@
 ![GabrielOrtiz72 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielOrtiz72&show_icons=true&theme=merko)
 
 ### Email de contato
-<div style = "display: inline_block"><br>
+<div style = "display: inline_block">
   <img align="center" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <p>gabiortiz140@gmailcom</p>
 </div>
