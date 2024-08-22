@@ -1,4 +1,4 @@
-## Hi eu sou o Gabriel Ortiz 👋
+## Oi eu sou o Gabriel Ortiz 👋
 
 ![GabrielOrtiz72 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielOrtiz72&show_icons=true&theme=merko)
 
