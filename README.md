@@ -7,9 +7,9 @@
 <div align="center">
   <h2>GitHub Stats</h2>
   <a href="http://www.github.com/GabrielOrtiz72" style="text-decoration: none;">
-    <img height="210em" src="https://github-readme-stats.vercel.app/api?username=GabrielOrtiz72&theme=ocean_dark&show_icons=true&hide_border=true&count_private=true" alt="Gabriel Ortiz72"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GabrielOrtiz72&theme=ocean_dark&show_icons=true&hide_border=true&count_private=true" alt="Gabriel Ortiz72"/>
   </a>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOrtiz72&theme=ocean_dark&show_icons=true&hide_border=true&layout=compact&langs_count=12" alt="Gabriel Ortiz72"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOrtiz72&theme=ocean_dark&show_icons=true&hide_border=true&layout=compact&langs_count=12" alt="Gabriel Ortiz72"/>
 </div>
 
 <div align="center">
